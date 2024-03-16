@@ -1,0 +1,38 @@
+title: 动手写数据结构
+description: d2ds开源课
+theme: just-the-docs
+
+url: https://github.com/Sunrisepeak/d2ds-courses
+
+aux_links:
+  Github: https://github.com/Sunrisepeak/d2ds-courses
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+exclude: ["Gemfile.lock"]
+
+# Collections for website data
+collections:
+  announcements:
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Sunrisepeak/d2ds-courses" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache

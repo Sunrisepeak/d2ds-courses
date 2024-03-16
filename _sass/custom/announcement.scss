@@ -1,0 +1,15 @@
+.announcement {
+    background-color: #00ffe10e; /* 背景色 */
+    border-left: 5px solid #007bff; /* 左边的边框，蓝色 */
+    padding: 1rem; /* 内边距 */
+    margin-bottom: 1rem; /* 下边距 */
+  }
+  
+  .announcement h2 {
+    margin-top: 0;
+    color: #333; /* 标题文字颜色 */
+  }
+  
+  .announcement div {
+    color: #666; /* 内容文字颜色 */
+  }
