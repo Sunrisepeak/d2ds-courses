@@ -2,10 +2,8 @@ title: 动手写数据结构
 description: d2ds开源课
 theme: just-the-docs
 url: https://github.com/Sunrisepeak/d2ds-courses
-
-# https://github.com/github/pages-gem/issues/399
 repository: Sunrisepeak/d2ds-courses # for github-metadata
-github: [metadata]
+# github: [metadata]
 
 aux_links:
   Github: https://github.com/Sunrisepeak/d2ds-courses
