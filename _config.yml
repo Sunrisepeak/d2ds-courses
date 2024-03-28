@@ -5,6 +5,9 @@ url: https://github.com/Sunrisepeak/d2ds-courses
 repository: Sunrisepeak/d2ds-courses # for github-metadata
 # github: [metadata]
 
+#logo: "/assets/images/d2ds-logo.png"
+favicon_ico: "/assets/images/d2ds-logo.png"
+
 aux_links:
   Github: https://github.com/Sunrisepeak/d2ds-courses
 

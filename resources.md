@@ -11,7 +11,7 @@ nav_order: 4
 - 课程视频
   - [blbl]()
   - [youtube]() 
-- [课程pdf]()
+- [课程ppt](assets/pdfs)
 - [d2ds在线阅读](https://sunrisepeak.github.io/d2ds/)
 - [d2ds-dslings代码练习](https://github.com/Sunrisepeak/d2ds)
 - [问题讨论](https://github.com/Sunrisepeak/d2ds-courses/discussions)
