@@ -16,22 +16,11 @@ git clone -b show-your-code-2024 [your-d2ds-courses-url]
 
 ```
 
-**第四步: 编辑.gitmodules并添加第一步中你的d2ds仓库**
-
-> 格式
+**第四步: 添加你的d2ds代码仓库**
 
 ```bash
-git submodule add -b main <repository-url> <path-to-submodule>
-```
-
-```text
-
-[submodule "sunrisepeak"]
-    path = sunrisepeak
-    url = https://github.com/UnknownBugs/d2ds-sunrisepeak
-    branch = main
-    update = rebase
-
+git submodule add -b main <your-d2ds repository-url> <your-id>
+git config -f .gitmodules submodule.<your-id>.update rebase
 ```
 
 **第五步: 提交改动并向主仓库的your-d2ds-courses-url分支发起PR**
