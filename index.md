@@ -17,7 +17,7 @@ nav_order: 1
 
 |  ---  |  ---  |
 | 开源书籍/资料 | [<span class="iconfont icon-xiaoshuo-copy"></span> d2ds在线阅读 ](https://sunrisepeak.github.io/d2ds/) |
-| 视频课 | [<span class="iconfont icon-bilibili-fill"></span> 视频列表]() |
+| 视频课 | [<span class="iconfont icon-bilibili-fill"></span> 视频列表](https://space.bilibili.com/65858958/channel/seriesdetail?sid=4040405) |
 | 代码练习(dslings) | [d2ds dslings](https://github.com/Sunrisepeak/d2ds) |
 | 课程论坛 | [讨论/交流/共建](https://github.com/Sunrisepeak/d2ds-courses/discussions) |
 

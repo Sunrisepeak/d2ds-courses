@@ -9,7 +9,7 @@ nav_order: 4
 ## 直接资源
 
 - 课程视频
-  - [blbl]()
+  - [blbl](https://space.bilibili.com/65858958/channel/seriesdetail?sid=4040405)
   - [youtube]() 
 - [课程ppt](assets/pdfs)
 - [d2ds在线阅读](https://sunrisepeak.github.io/d2ds/)
