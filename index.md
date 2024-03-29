@@ -8,18 +8,19 @@ nav_order: 1
 
 ## 简介
 
-### 目标
-打造一个**任何人都可以免费(通过互联网)获取**, 强调**动手实践** + **社区推动**并不断优化的的数据结构开源课程
+打造一个**任何人都可以免费(通过互联网)获取**, 并且强调**动手实践**的数据结构开源课程
 
-### 结构
-开源书籍/资料 + 视频课 + 代码练习(dslings) + 问题讨论 + 开源库实践
+- 强调**动手写代码**
+- 强调**课程共建共享**
 
-### 适合人群&期望已掌握的技能
-> 了解数据结构基础概念, (期望或喜欢)从事库开发或系统软件/底层软件开发的相关人士
+## 课程结构
 
-- 基础的C++语法
-- 了解一些数据结构概念
-- 了解linux基础命令
+|  ---  |  ---  |
+| 开源书籍/资料 | [<span class="iconfont icon-xiaoshuo-copy"></span> d2ds在线阅读 ](https://sunrisepeak.github.io/d2ds/) |
+| 视频课 | [<span class="iconfont icon-bilibili-fill"></span> 视频列表]() |
+| 代码练习(dslings) | [d2ds dslings](https://github.com/Sunrisepeak/d2ds) |
+| 课程论坛 | [讨论/交流/共建](https://github.com/Sunrisepeak/d2ds-courses/discussions) |
+
 
 ## 贡献者
 
