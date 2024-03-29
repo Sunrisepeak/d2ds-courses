@@ -14,7 +14,7 @@
 git clone -b show-your-code-2024 <your-d2ds-courses-repo-url>
 ```
 
-- <your-d2ds-courses-repo-url>: 第二步中fork的仓库地址
+- `<your-d2ds-courses-repo-url>`: 第二步中fork的仓库地址
 
 **第四步: 添加你的d2ds代码仓库**
 
@@ -23,7 +23,7 @@ git submodule add -b main <your-d2ds-repo-url> <your-id>
 git config -f .gitmodules submodule.<your-id>.update rebase
 ```
 
-- <your-d2ds-repo-url>: 第一步中fork的仓库地址
-- <your-id>: 你的id
+- `<your-d2ds-repo-url>`: 第一步中fork的仓库地址
+- `<your-id>`: 你的id
 
 **第五步: 提交改动并向主仓库的your-d2ds-courses-url分支发起PR**
