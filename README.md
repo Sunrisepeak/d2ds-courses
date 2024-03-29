@@ -20,13 +20,17 @@ git clone -b show-your-code-2024 [your-d2ds-courses-url]
 
 > 格式
 
+```bash
+git submodule add -b main <repository-url> <path-to-submodule>
+```
+
 ```text
 
-[submodule "your_id"]
-	path = your_id
-	url = your_d2ds_repo_url
-	branch = main
-	update = rebase
+[submodule "sunrisepeak"]
+    path = sunrisepeak
+    url = https://github.com/UnknownBugs/d2ds-sunrisepeak
+    branch = main
+    update = rebase
 
 ```
 

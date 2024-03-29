@@ -1,8 +1,0 @@
-# git submodule add -b main <repository-url> <path-to-submodule>
-# git config -f .gitmodules submodule.<path-to-submodule>.update rebase
-
-[submodule "sunrisepeak"]
-	path = sunrisepeak
-	url = https://github.com/UnknownBugs/d2ds-sunrisepeak
-	branch = main
-	update = rebase
