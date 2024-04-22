@@ -19,9 +19,14 @@ nav_order: 1
 | 开源书籍/资料 | [<span class="iconfont icon-xiaoshuo-copy"></span> `d2ds在线阅读` ](https://sunrisepeak.github.io/d2ds/) |
 | 视频课 | [<span class="iconfont icon-bilibili-fill"></span> `视频列表`](https://space.bilibili.com/65858958/channel/seriesdetail?sid=4040405) &nbsp;&nbsp; [<span class="iconfont icon-youtube"></span> `Playlist`](https://www.youtube.com/playlist?list=PL7uow6t1QjF1MtrsJdhkJXsCKwwnVZApH)  |
 | 代码练习(dslings) | [d2ds dslings](https://github.com/Sunrisepeak/d2ds) |
-| 课程论坛 | [<span class="iconfont icon-discourse"></span> `讨论|交流|共建`](https://github.com/Sunrisepeak/d2ds-courses/discussions) |
+| 课程论坛 | [<span class="iconfont icon-discourse"></span> `讨论|交流|共建`](https://github.com/Sunrisepeak/d2ds-courses/discussions) &nbsp;&nbsp; [<span class="iconfont icon-discourse"></span> `即时交流`](https://eas1ski1nx9.feishu.cn/docx/TTXadjeYrore4ZxGUVDcjIh8n9e) |
 | 数据结构模板库 | [dstruct](https://github.com/Sunrisepeak/DStruct) |
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=v5gsHfvyDM1M7Xqa&amp;list=PL7uow6t1QjF1MtrsJdhkJXsCKwwnVZApH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## 贡献者
 
