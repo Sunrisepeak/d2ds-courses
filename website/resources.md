@@ -11,7 +11,7 @@ nav_order: 4
 - 课程视频
   - [blbl](https://space.bilibili.com/65858958/channel/seriesdetail?sid=4040405)
   - [youtube](https://www.youtube.com/playlist?list=PL7uow6t1QjF1MtrsJdhkJXsCKwwnVZApH) 
-- [课程ppt](https://github.com/Sunrisepeak/d2ds-courses/tree/main/assets/pdfs)
+- [课程ppt](https://github.com/Sunrisepeak/d2ds-courses/tree/main/pdfs)
 - [d2ds在线阅读](https://sunrisepeak.github.io/d2ds/)
 - [d2ds-dslings代码练习](https://github.com/Sunrisepeak/d2ds)
 - [dslings代码展示/ShowYourCode](https://github.com/Sunrisepeak/d2ds-courses/tree/show-your-code-2024)
