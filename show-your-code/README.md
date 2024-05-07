@@ -25,4 +25,4 @@ git submodule add -b main <your-d2ds-repo-url> show-your-code/2024/<your-id>
 - `<your-d2ds-repo-url>`: 第一步中fork的仓库地址
 - `<your-id>`: 你的id
 
-**第五步: 提交改动到第二步你fork的仓库, 并向主仓库发起PR**
+**第五步: 提交改动到你fork的仓库, 并向主仓库发起PR**
