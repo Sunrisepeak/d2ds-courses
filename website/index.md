@@ -32,6 +32,7 @@ nav_order: 1
 
 ## 贡献者
 
+### 核心团队成员
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
@@ -39,3 +40,18 @@ nav_order: 1
   </li>
 {% endfor %}
 </ul>
+
+### 贡献者历史
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+  </li>
+{% endfor %}
+</ul>
+
+## 社区
+
+- **即时交流(QQ群):** 167535744
+- **论坛:** [github-discussions](https://github.com/Sunrisepeak/d2ds-courses/discussions)
+- **问题交流&反馈:** [github-issues](https://github.com/Sunrisepeak/d2ds-courses/issues)
