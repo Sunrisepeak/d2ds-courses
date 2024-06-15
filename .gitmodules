@@ -1,7 +1,3 @@
-[submodule "book"]
-	path = book
-	url = git@github.com:Sunrisepeak/d2ds.git
-	branch = main
 [submodule "show-your-code/2024/sunrisepeak"]
 	path = show-your-code/2024/sunrisepeak
 	url = https://github.com/UnknownBugs/d2ds-sunrisepeak
